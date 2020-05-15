@@ -1,4 +1,4 @@
-# mtg-messenger-bot
+# MTG Card RenderBot
 
 - [Usage](#usage)
 - [Basic examples](#basic-examples)
@@ -10,11 +10,12 @@
   * [1. Two cards, side by side](#1-two-cards-side-by-side)
   * [2. Two-cards combo](#2-two-cards-combo)
   * [3. Two-cards battles](#3-two-cards-battles)
+  * [4. Three, four and five cards hands](#4-three-four-and-five-cards-hands)
 
 ## Usage
 
 1. Open Facebook Messenger
-2. Start a new discussion with the `mtg-messenger-bot`
+2. Start a new discussion with the bot
 3. Press `Get Started` button
 
 ## Basic examples
@@ -45,7 +46,7 @@ Some sets contain cards with different illustrations. If you want a specific car
 
 ### 4. Random cards
 
-The `mtg-messenger-bot` can also rander random cards. To do that, you still have to guide it through the kind of card you are looking for.
+The bot can also rander random cards. To do that, you still have to guide it through the kind of card you are looking for.
 
 **💡 Example :** `🤴` (will render a random legendary creature)
 
@@ -105,3 +106,14 @@ If you want to render a two-cards combo, you can seperate the two queries by the
 If you want showcase a battle between two cards, you can seperate the two queries by the `vs` sign:
 
 **💡 Example :** `Simic Signet vs Talisman of Curiosity`
+
+### 4. Three, four and five cards hands
+
+If you want to render a hand of three, four or five cards, just type the queries on seperate lines:
+
+**💡 Example :**\
+`Mythos of Vadrok`\
+`Mythos of Illuna`\
+`Mythos of Nethroi`\
+`Mythos of Brokkos`\
+`Mythos of Snapdax`
