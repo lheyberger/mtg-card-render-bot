@@ -1,0 +1,7 @@
+flask
+Pillow
+gunicorn
+pymessenger
+requests
+requests-cache
+requests-toolbelt
