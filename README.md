@@ -70,7 +70,7 @@ Here's a list of supported emojis:
 |  🧞  | djinn     |
 |  🦖  | dinosaur  |
 |  🦕  | dinosaur  |
-|  ⚔️  | warrior   |
+|  ⚔️   | warrior   |
 |  🐿️  | squirrel  |
 |  🕷️  | spider    |
 |  🐉  | dragon    |
@@ -85,6 +85,12 @@ Here's a list of supported emojis:
 |  👺  | goblin    |
 |  🐈  | cat       |
 |  🐱  | cat       |
+|  🐦  | bird      |
+|  🦀  | crab      |
+|  🐗  | boar      |
+|  🐍  | snake     |
+|  ☠️   | skeleton  |
+|  💀  | skeleton  |
 
 ## Advanced examples
 
