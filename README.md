@@ -1,4 +1,4 @@
-# MTG Card RenderBot
+# MTG Messenger Bot
 
 - [Usage](#usage)
 - [Basic examples](#basic-examples)
@@ -31,7 +31,7 @@ or part of it's full name if there's no ambiguity:
 
 **💡 Example :** `wrath god`
 
-### 2. Single card of from specific set
+### 2. Single card from a specific set
 
 If you want to render a card from a specific set, you can prefix the name with the set code:
 
@@ -47,7 +47,7 @@ Some sets contain cards with different illustrations. If you want a specific car
 
 ### 4. Random cards
 
-The bot can also rander random cards. To do that, you still have to guide it through the kind of card you are looking for.
+The chatbot can also rander random cards. To do that, you still have to guide it through the kind of card you are looking for.
 
 **💡 Example :** `🤴` (will render a random legendary creature)
 
