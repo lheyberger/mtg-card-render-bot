@@ -3,7 +3,7 @@
 - [Usage](#usage)
 - [Basic examples](#basic-examples)
   * [1. Single card](#1-single-card)
-  * [2. Single card of a specific set](#2-single-card-of-a-specific-set)
+  * [2. Single card from a specific set](#2-single-card-from-a-specific-set)
   * [3. Specific card from a specific set](#3-specific-card-from-a-specific-set)
   * [4. Random cards](#4-random-cards)
 - [Advanced examples](#advanced-examples)
@@ -31,7 +31,7 @@ or part of it's full name if there's no ambiguity:
 
 **💡 Example :** `wrath god`
 
-### 2. Single card of a specific set
+### 2. Single card of from specific set
 
 If you want to render a card from a specific set, you can prefix the name with the set code:
 
