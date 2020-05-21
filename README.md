@@ -16,7 +16,7 @@
 
 1. Open Facebook Messenger
 2. Start a new discussion either by navigating to https://m.me/108575720841085 or by scanning this qrcode
-<img src="qrcode.png" alt="https://m.me/108575720841085" />
+<img src="media/qrcode.png" alt="https://m.me/108575720841085" />
 3. Press `Get Started` button
 
 ## Basic examples
