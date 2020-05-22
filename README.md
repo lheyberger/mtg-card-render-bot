@@ -27,9 +27,13 @@ You can render a single card by typing either it's full name:
 
 **💡 Example :** `sol ring`
 
+<img src="media/examples/sol_ring.jpg" alt="sol ring" height="200" />
+
 or part of it's full name if there's no ambiguity:
 
 **💡 Example :** `wrath god`
+
+<img src="media/examples/wrath_of_god.jpg" alt="wrath of god" height="200" />
 
 ### 2. Single card from a specific set
 
@@ -37,13 +41,19 @@ If you want to render a card from a specific set, you can prefix the name with t
 
 **💡 Example :** `mps sol ring` (will render Sol Ring from the _Kaladesh Inventions_ set)
 
+<img src="media/examples/mps_sol_ring.jpg" alt="mps sol ring" height="200" />
+
 ### 3. Specific card from a specific set
 
 Some sets contain cards with different illustrations. If you want a specific card, you can specify the set code and the collector number:
 
 **💡 Example :** `und forest` (will render the basic Forest from the _Unsanctioned_ set, collector number 95)
 
+<img src="media/examples/und_forest.jpg" alt="und forest" height="200" />
+
 **💡 Example :** `und 96` (will render the full art Forest from the _Unsanctioned_ set, collector number 96)
+
+<img src="media/examples/und_96.jpg" alt="und 96" height="200" />
 
 ### 4. Random cards
 
