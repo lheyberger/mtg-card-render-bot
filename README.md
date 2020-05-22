@@ -112,17 +112,23 @@ If you want to render two cards, side by side, just type two queries on two line
 `Thrasios, Triton Hero`\
 `Tymna the Weaver`
 
+<img src="media/examples/thrasios_tymna.jpg" alt="Thrasios Tymna" height="200" />
+
 ### 2. Two-cards combo
 
 If you want to render a two-cards combo, you can seperate the two queries by the `+` sign:
 
 **💡 Example :** `Demonic Consultation + Thassa Oracle`
 
+<img src="media/examples/demonic_thassa.jpg" alt="Demonic Consultation + Thassa Oracle" height="200" />
+
 ### 3. Two-cards battles
 
 If you want showcase a battle between two cards, you can seperate the two queries by the `vs` sign:
 
 **💡 Example :** `Simic Signet vs Talisman of Curiosity`
+
+<img src="media/examples/signet_vs_talisman.jpg" alt="Simic Signet vs Talisman of Curiosity" height="200" />
 
 ### 4. Three, four and five cards hands
 
@@ -134,3 +140,5 @@ If you want to render a hand of three, four or five cards, just type the queries
 `Mythos of Nethroi`\
 `Mythos of Brokkos`\
 `Mythos of Snapdax`
+
+<img src="media/examples/mythos_cycle.jpg" alt="Mythos cycle" height="200" />
