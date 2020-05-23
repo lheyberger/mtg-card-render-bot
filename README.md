@@ -63,7 +63,7 @@ The chatbot can also rander random cards. To do that, you still have to guide it
 
 **💡 Example :** `🤴 🧟` (will render a random legendary zombie creature)
 
-Here's a list of supported emojis:
+Here is the list of all supported emojis:
 
 | Emoji |   Type    |
 |:-------:|:-----------:|
@@ -106,6 +106,11 @@ Here's a list of supported emojis:
 |  🌳  | treefolk  |
 |  🌴  | treefolk  |
 |  🐻  | bear      |
+|  👁️ | homunculus |
+|  ☄️  | sorcery    |
+|  ⚡  | instant    |
+|  🐾 | creature   |
+|  ❄️  | snow       |
 
 ## Advanced examples
 
