@@ -65,52 +65,48 @@ The chatbot can also rander random cards. To do that, you still have to guide it
 
 Here is the list of all supported emojis:
 
-| Emoji |   Type    |
-|:-------:|:-----------:|
-|  🤴  | commander |
-|  👸  | commander |
-|  🧟  | zombie    |
-|  🧙  | wizard    |
-|  🧛  | vampire   |
-|  🧜  | merfolk   |
-|  🧚  | faerie    |
-|  🧝  | elf       |
-|  🐒  | monkey    |
-|  🐵  | monkey    |
-|  🧞  | djinn     |
-|  🦖  | dinosaur  |
-|  🦕  | dinosaur  |
-|  ⚔️   | warrior   |
-|  🐿️  | squirrel  |
-|  🕷️  | spider    |
-|  🐉  | dragon    |
-|  🐲  | dragon    |
-|  🐙  | octopus   |
-|  🦑  | kraken    |
-|  👼  | angel     |
-|  👻  | spirit    |
-|  👹  | demon     |
-|  👿  | demon     |
-|  😈  | demon     |
-|  👺  | goblin    |
-|  🐈  | cat       |
-|  🐱  | cat       |
-|  🐦  | bird      |
-|  🦀  | crab      |
-|  🐗  | boar      |
-|  🐍  | snake     |
-|  ☠️   | skeleton  |
-|  💀  | skeleton  |
-|  🌲  | treefolk  |
-|  🎄  | treefolk  |
-|  🌳  | treefolk  |
-|  🌴  | treefolk  |
-|  🐻  | bear      |
-|  👁️ | homunculus |
-|  ☄️  | sorcery    |
-|  ⚡  | instant    |
-|  🐾 | creature   |
-|  ❄️  | snow       |
+#### 1. Supported types
+
+| Emoji | Card Type |
+|:-----:|:----:|
+| 🤴 👸 | commander |
+| ☄️ | sorcery |
+| ⚡ | instant |
+| 🐾 | creature |
+| ❄️ | snow |
+
+#### 2. Supported subtypes
+
+| Emoji | Type |
+|:-----:|:----:|
+| 🧟 | zombie |
+| 🧙 | wizard |
+| 🧛 | vampire |
+| 🧜 | merfolk |
+| 🧚 | faerie |
+| 🧝 | elf |
+| 🐒 🐵 | monkey|
+| 🧞 | djinn |
+| 🦖 🦕 | dinosaur |
+| ⚔️ | warrior |
+| 🐿️ | squirrel |
+| 🕷️ | spider |
+| 🐉 🐲 | dragon |
+| 🐙 | octopus |
+| 🦑 | kraken |
+| 👼 | angel |
+| 👻 | spirit |
+| 👹 👿 😈 | demon |
+| 👺 | goblin |
+| 🐈 🐱 | cat |
+| 🐦 | bird |
+| 🦀 | crab |
+| 🐗 | boar |
+| 🐍 | snake |
+| ☠️ 💀| skeleton |
+| 🌲 🎄 🌳 🌴 | treefolk |
+| 🐻 | bear |
+| 👁️ | homunculus |
 
 ## Advanced examples
 
