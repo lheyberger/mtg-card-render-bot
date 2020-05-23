@@ -101,6 +101,11 @@ Here's a list of supported emojis:
 |  🐍  | snake     |
 |  ☠️   | skeleton  |
 |  💀  | skeleton  |
+|  🌲  | treefolk  |
+|  🎄  | treefolk  |
+|  🌳  | treefolk  |
+|  🌴  | treefolk  |
+|  🐻  | bear      |
 
 ## Advanced examples
 
