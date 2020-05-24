@@ -27,13 +27,13 @@ You can render a single card by typing either it's full name:
 
 **💡 Example :** `sol ring`
 
-<img src="media/examples/sol_ring.jpg" alt="sol ring" height="200" />
+<img src="media/examples/sol_ring.jpg" alt="sol ring" width="363" height="200" />
 
 or part of it's full name if there's no ambiguity:
 
 **💡 Example :** `wrath god`
 
-<img src="media/examples/wrath_of_god.jpg" alt="wrath of god" height="200" />
+<img src="media/examples/wrath_of_god.jpg" alt="wrath of god" width="363" height="200" />
 
 ### 2. Single card from a specific set
 
@@ -41,7 +41,7 @@ If you want to render a card from a specific set, you can prefix the name with t
 
 **💡 Example :** `mps sol ring` (will render Sol Ring from the _Kaladesh Inventions_ set)
 
-<img src="media/examples/mps_sol_ring.jpg" alt="mps sol ring" height="200" />
+<img src="media/examples/mps_sol_ring.jpg" alt="mps sol ring" width="363" height="200" />
 
 ### 3. Specific card from a specific set
 
@@ -49,11 +49,11 @@ Some sets contain cards with different illustrations. If you want a specific car
 
 **💡 Example :** `und forest` (will render the basic Forest from the _Unsanctioned_ set, collector number 95)
 
-<img src="media/examples/und_forest.jpg" alt="und forest" height="200" />
+<img src="media/examples/und_forest.jpg" alt="und forest" width="363" height="200" />
 
 **💡 Example :** `und 96` (will render the full art Forest from the _Unsanctioned_ set, collector number 96)
 
-<img src="media/examples/und_96.jpg" alt="und 96" height="200" />
+<img src="media/examples/und_96.jpg" alt="und 96" width="363" height="200" />
 
 ### 4. Random cards
 
@@ -118,7 +118,7 @@ If you want to render two cards, side by side, just type two queries on two line
 `Thrasios, Triton Hero`\
 `Tymna the Weaver`
 
-<img src="media/examples/thrasios_tymna.jpg" alt="Thrasios Tymna" height="200" />
+<img src="media/examples/thrasios_tymna.jpg" alt="Thrasios Tymna" width="363" height="200" />
 
 ### 2. Two-cards combo
 
@@ -126,7 +126,7 @@ If you want to render a two-cards combo, you can seperate the two queries by the
 
 **💡 Example :** `Demonic Consultation + Thassa Oracle`
 
-<img src="media/examples/demonic_thassa.jpg" alt="Demonic Consultation + Thassa Oracle" height="200" />
+<img src="media/examples/demonic_thassa.jpg" alt="Demonic Consultation + Thassa Oracle" width="363" height="200" />
 
 ### 3. Two-cards battles
 
@@ -134,7 +134,7 @@ If you want showcase a battle between two cards, you can seperate the two querie
 
 **💡 Example :** `Simic Signet vs Talisman of Curiosity`
 
-<img src="media/examples/signet_vs_talisman.jpg" alt="Simic Signet vs Talisman of Curiosity" height="200" />
+<img src="media/examples/signet_vs_talisman.jpg" alt="Simic Signet vs Talisman of Curiosity" width="363" height="200" />
 
 ### 4. Three, four and five cards hands
 
@@ -147,4 +147,4 @@ If you want to render a hand of three, four or five cards, just type the queries
 `Mythos of Brokkos`\
 `Mythos of Snapdax`
 
-<img src="media/examples/mythos_cycle.jpg" alt="Mythos cycle" height="200" />
+<img src="media/examples/mythos_cycle.jpg" alt="Mythos cycle" width="363" height="200" />
