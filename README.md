@@ -73,7 +73,8 @@ Here is the list of all supported emojis:
 | ☄️ | sorcery |
 | ⚡ | instant |
 | 🐾 | creature |
-| ❄️ | snow |
+| ✨ | enchantment |
+| ❄️ 🥶 | snow |
 
 #### 2. Supported subtypes
 
@@ -107,6 +108,8 @@ Here is the list of all supported emojis:
 | 🌲 🎄 🌳 🌴 | treefolk |
 | 🐻 | bear |
 | 👁️ | homunculus |
+| 🐋 🐳 | whale |
+| 🦈 | shark |
 
 ## Advanced examples
 
