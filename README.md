@@ -33,7 +33,7 @@ or part of it's full name if there's no ambiguity:
 
 **💡 Example :** `wrath god`
 
-<img src="media/examples/wrath_of_god.jpg" alt="wrath of god" width="363" height="200" />
+<img src="media/examples/wrath_of_god.jpg" alt="wrath of god" width="363" />
 
 ### 2. Single card from a specific set
 
