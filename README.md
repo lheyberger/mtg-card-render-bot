@@ -1,5 +1,9 @@
 # MTG Messenger Bot
 
+Magic the Gathering™ rendering chatbot for Facebook Messenger.
+
+## Content
+
 - [Usage](#usage)
 - [Basic examples](#basic-examples)
   * [1. Single card](#1-single-card)
