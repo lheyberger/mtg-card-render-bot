@@ -103,7 +103,7 @@ Here is the list of all supported emojis:
 | 👻 | spirit |
 | 👹 👿 😈 | demon |
 | 👺 | goblin |
-| 🐈 🐱 | cat |
+| 🐈 🐱 😺 | cat |
 | 🐦 | bird |
 | 🦀 | crab |
 | 🐗 | boar |
@@ -114,6 +114,8 @@ Here is the list of all supported emojis:
 | 👁️ | homunculus |
 | 🐋 🐳 | whale |
 | 🦈 | shark |
+| 🦊 | fox |
+| 🐺 | wolf |
 
 ## Advanced examples
 
