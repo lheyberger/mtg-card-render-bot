@@ -5,6 +5,8 @@ Magic the Gathering™ rendering chatbot for Facebook Messenger and Telegram.
 ## Content
 
 - [Usage](#usage)
+  * [Facebook Messenger](#facebook-messenger)
+  * [Telegram](#telegram)
 - [Basic examples](#basic-examples)
   * [1. Single card](#1-single-card)
   * [2. Single card from a specific set](#2-single-card-from-a-specific-set)
@@ -18,10 +20,18 @@ Magic the Gathering™ rendering chatbot for Facebook Messenger and Telegram.
 
 ## Usage
 
+### Facebook Messenger
+
 1. Open Facebook Messenger
 2. Start a new discussion either by navigating to https://m.me/108575720841085 or by scanning this qrcode
 <img src="media/qrcode.png" alt="https://m.me/108575720841085" />
 3. Press `Get Started` button
+
+### Telegram
+
+1. Open Telegram
+2. Start a new discussion either by navigating to https://t.me/cardrenderbot or searching for @cardrenderbot
+3. Press `Start` button
 
 ## Basic examples
 
