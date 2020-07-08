@@ -1,6 +1,6 @@
-# MTG Messenger Bot
+# MTG Card Render Bot
 
-Magic the Gathering™ rendering chatbot for Facebook Messenger.
+Magic the Gathering™ rendering chatbot for Facebook Messenger and Telegram.
 
 ## Content
 
